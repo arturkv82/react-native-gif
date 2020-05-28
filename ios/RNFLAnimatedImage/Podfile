@@ -6,5 +6,5 @@ target 'RNFLAnimatedImage' do
   use_frameworks!
 
   # Pods for RNFLAnimatedImage
-  pod 'FLAnimatedImage', :git => 'https://github.com/Flipboard/FLAnimatedImage'
+  pod 'FLAnimatedImage', :git => 'https://github.com/arturkv82/FLAnimatedImage'
 end
