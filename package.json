@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arturkv82/react-native-gif.git"
+    "url": "git+https://github.com/seavan/react-native-gif.git"
   },
   "keywords": [
     "react-native",
@@ -21,9 +21,9 @@
   "author": "Samvel Avanesov (seavan@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arturkv82/react-native-gif"
+    "url": "https://github.com/seavan/react-native-gif"
   },
-  "homepage": "https://github.com/arturkv82/react-native-gif",
+  "homepage": "https://github.com/seavan/react-native-gif",
   "peerDependencies": {
     "react-native": "*"
   },
