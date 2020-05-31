@@ -15,6 +15,5 @@ function handler(error, stdout, stderr) {
 if (platform === 'win32') {
   exec('yarn && yarn run buildwin', handler);
 } else {
-  console.log("exec linux");
-  exec('yarn && yarn build-mac', handler);
+  exec('yarn && yarn buildmac', handler);
 }
