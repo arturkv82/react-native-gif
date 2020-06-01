@@ -5,9 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "buildmac": "rm -rf dist && tsc --declaration",
-    "buildwin": "(if exist dist rmdir dist /S /Q) && tsc --declaration",
-    "postinstall": "node postinstall/script.js"
+    "build-dist": "tsc --declaration"
   },
   "repository": {
     "type": "git",
